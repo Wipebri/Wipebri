@@ -1,6 +1,12 @@
-# 💫 About Me:
-I am an Information Systems student with a deep passion for building comprehensive digital solutions. In addition to focusing on mobile application development and data analysis, I am actively engaged in learning and building various web projects. My experience as a laboratory assistant has sharpened my ability to transform information into actionable insights. I am an adaptive learner, always striving to keep up with emerging technologies to create functional and impactful digital products.
+# Hi there, I'm Dwi Pebriyanto Pradana 👋
 
+I am an Information Systems student with a deep passion for building comprehensive digital solutions. In addition to focusing on mobile application development and data analysis, I am actively engaged in learning and building various web projects. My experience as a laboratory assistant has sharpened my ability to transform information into actionable insights. I am an adaptive learner, always striving to keep up with emerging technologies to create functional and impactful digital product
+
+# 💫 About Me:
+🚀 Currently working on application development projects using Flutter & Supabase.
+📊 Strong interest in Data Science, Data Cleaning, and Machine Learning.
+🎨 Experienced in graphic design and video editing for creative content.
+💬 Ask me about: Python, or data visualization with Tableau.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wipebri._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dwi-pebriyanto-pradana-9aa005331/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwi.pebriyanto06@gmail.com) 
